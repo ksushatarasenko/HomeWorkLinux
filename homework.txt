@@ -1,0 +1,16 @@
+Mon Feb  6 12:22:14 UTC 2023
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        474M     0  474M   0% /dev
+tmpfs           483M     0  483M   0% /dev/shm
+tmpfs           483M  700K  483M   1% /run
+tmpfs           483M     0  483M   0% /sys/fs/cgroup
+/dev/xvda1      8.0G  7.0G  1.1G  87% /
+tmpfs            97M     0   97M   0% /run/user/1000
+tmpfs            97M     0   97M   0% /run/user/1007
+ 1002  vi homework.txt
+ 1003  date > /home/basic_57-58e/Oksana/homework.txt 
+ 1004  df -h
+ 1005  df -h >> /home/basic_57-58e/Oksana/homework.txt 
+ 1006  history | tail -n5 >> /home/basic_57-58e/Oksana/homework.txt 
+ GenuineIntel
+129
